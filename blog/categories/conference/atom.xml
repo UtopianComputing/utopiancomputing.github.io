@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Utopian Computing]]></title>
-  <link href="http://UtopianComputing.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Conference | Utopian Computing]]></title>
+  <link href="http://UtopianComputing.github.io/blog/categories/conference/atom.xml" rel="self"/>
   <link href="http://UtopianComputing.github.io/"/>
   <updated>2014-08-14T22:25:00-03:00</updated>
   <id>http://UtopianComputing.github.io/</id>
