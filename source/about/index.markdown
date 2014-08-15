@@ -4,6 +4,7 @@ title: "About Us"
 comments: true
 sharing: true
 footer: true
+comments: false
 ---
 
 Utopian Computing is a technological think-tank focussed on the idea of the ideal computer system.
