@@ -4,7 +4,7 @@
   <title><![CDATA[Utopian Computing]]></title>
   <link href="http://UtopianComputing.github.io/atom.xml" rel="self"/>
   <link href="http://UtopianComputing.github.io/"/>
-  <updated>2014-08-15T16:42:26-03:00</updated>
+  <updated>2014-08-27T10:54:52-03:00</updated>
   <id>http://UtopianComputing.github.io/</id>
   <author>
     <name><![CDATA[Ben Langfeld]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Quality Software Engineering for Your Data Center]]></title>
+    <title type="html"><![CDATA[Quality software engineering for your data center]]></title>
     <link href="http://UtopianComputing.github.io/blog/2014/08/14/quality-software-engineering-for-your-data-center/"/>
     <updated>2014-08-14T22:16:23-03:00</updated>
     <id>http://UtopianComputing.github.io/blog/2014/08/14/quality-software-engineering-for-your-data-center</id>
