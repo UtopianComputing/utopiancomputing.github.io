@@ -4,7 +4,7 @@
   <title><![CDATA[Utopian Computing]]></title>
   <link href="http://UtopianComputing.github.io/atom.xml" rel="self"/>
   <link href="http://UtopianComputing.github.io/"/>
-  <updated>2014-08-27T11:09:15-03:00</updated>
+  <updated>2014-08-29T11:27:19-03:00</updated>
   <id>http://UtopianComputing.github.io/</id>
   <author>
     <name><![CDATA[Ben Langfeld]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Utopian Computing announced at RubyConf Brasil 2014]]></title>
+    <link href="http://UtopianComputing.github.io/blog/2014/08/29/utopian-computing-announced-rubyconf-brasil-2014/"/>
+    <updated>2014-08-29T10:16:23-03:00</updated>
+    <id>http://UtopianComputing.github.io/blog/2014/08/29/utopian-computing-announced-rubyconf-brasil-2014</id>
+    <content type="html"><![CDATA[<p>At RubyConf Brasil yesterday I presented to Ruby developers these arguments:</p>
+
+<ul>
+<li>Operations and systems engineering are equally important to the success of a software project as the actual development of the application itself.</li>
+<li>DevOps is a simple concept: development and operations working together towards a common goal.</li>
+<li>Devs and sysadmins provide each other with value and mutual respect and collaboration help everyone. For developers this means respect and learn from good sysadmins.</li>
+<li>Abstractions are as important in operations as they are in code for productivity and containment of complexity.</li>
+<li>Automation and testing of your architecture are vital.</li>
+</ul>
+
+
+<p>Once the video of the presentation is released, I&rsquo;ll follow up with a post here.</p>
+
+<p>At the end of my presentation I explained that 45 minutes is not enough time to achieve the stated goal of the presentation, which was to tell you how to do ops. IT operations is a huge subject, and cannot be solved in a single presentation.</p>
+
+<p>At this point, it was time to announce the launch of Utopian Computing and its mission. Utopian Computing is an attempt to define what an ideal operating environment looks like and define the shortest route to reach it. You can <a href="http://UtopianComputing.github.io/about">read more about what we&rsquo;re about</a> and sign up to the mailing list here to receive the lastest news.</p>
+
+<p>Later today I&rsquo;ll be sending out my presentation slides and a whole bunch of links for further reading around the subjects I talked about. Sign up to the mailing list to make sure you don&rsquo;t miss out.</p>
+
+<p>Did you see the presentation? Did you enjoy it, or were you bored? Do you have questions, arguments or ideas? Comment below!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Quality software engineering for your data center]]></title>

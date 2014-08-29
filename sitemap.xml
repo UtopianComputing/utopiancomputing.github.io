@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://UtopianComputing.github.io/blog/2014/08/29/utopian-computing-announced-rubyconf-brasil-2014/</loc>
+    <lastmod>2014-08-29T10:16:23-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://UtopianComputing.github.io/blog/2014/08/14/quality-software-engineering-for-your-data-center/</loc>
     <lastmod>2014-08-14T22:16:23-03:00</lastmod>
     <priority>0.8</priority>
@@ -11,21 +17,21 @@
   
   <url>
     <loc>http://UtopianComputing.github.io/blog/archives/</loc>
-    <lastmod>2014-08-27T11:09:15-03:00</lastmod>
+    <lastmod>2014-08-29T11:27:19-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://UtopianComputing.github.io/</loc>
-    <lastmod>2014-08-27T11:09:15-03:00</lastmod>
+    <lastmod>2014-08-29T11:27:19-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://UtopianComputing.github.io/about/</loc>
-    <lastmod>2014-08-27T11:09:15-03:00</lastmod>
+    <lastmod>2014-08-29T11:27:19-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

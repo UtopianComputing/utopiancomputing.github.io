@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: presentation | Utopian Computing]]></title>
-  <link href="http://UtopianComputing.github.io/blog/categories/presentation/atom.xml" rel="self"/>
+  <title><![CDATA[Category: announcement | Utopian Computing]]></title>
+  <link href="http://UtopianComputing.github.io/blog/categories/announcement/atom.xml" rel="self"/>
   <link href="http://UtopianComputing.github.io/"/>
   <updated>2014-08-29T11:27:19-03:00</updated>
   <id>http://UtopianComputing.github.io/</id>
@@ -38,21 +38,6 @@
 <p>Later today I&rsquo;ll be sending out my presentation slides and a whole bunch of links for further reading around the subjects I talked about. Sign up to the mailing list to make sure you don&rsquo;t miss out.</p>
 
 <p>Did you see the presentation? Did you enjoy it, or were you bored? Do you have questions, arguments or ideas? Comment below!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Quality software engineering for your data center]]></title>
-    <link href="http://UtopianComputing.github.io/blog/2014/08/14/quality-software-engineering-for-your-data-center/"/>
-    <updated>2014-08-14T22:16:23-03:00</updated>
-    <id>http://UtopianComputing.github.io/blog/2014/08/14/quality-software-engineering-for-your-data-center</id>
-    <content type="html"><![CDATA[<p>In two weeks, Ben Langfeld will present at <a href="http://www.rubyconf.com.br/">RubyConf Brasil</a> for the third time. &ldquo;Quality software engineering for your data center&rdquo; is up at 13:15 on 28th August 2014 at the Frei Caneca Theatre, São Paulo.</p>
-
-<p>DevOps is the melding of minds between the development/engineering and operations communities to form a super-discipline with the best of the experience of both sides as a force for stability, flexibility, efficiency and agility in the management of large-scale application or service deployments. DevOps is about automating out day-to-day monotony, and then going further to bridge many of the things operations people are used to doing manually with the best-practices developed on the other side of the fence, particularly around automated testing and agility.</p>
-
-<p>Go! But wait a minute! That&rsquo;s not enough for everyone to know what they should be doing, you say. You&rsquo;re right, it&rsquo;s not. There is a wealth of information on specific DevOps issues on the internet, and some good introductory material, but few comprehensive, opinionated overviews of what you <em>should</em> do. This talk will solve that problem and have you 100% ready to embark on or fix-up your DevOps journey to blissful nights sleep while rocking regular new features for your users.</p>
-
-<p>We&rsquo;ll talk Puppet &amp; Chef, testing and turbulence, robots and thermo-nuclear weapons. If you&rsquo;ve just started with DevOps and need to know what you need to know, or have been muddling for a little while with some Puppets but the show always turns into a fight, then this is for you!</p>
 ]]></content>
   </entry>
   
